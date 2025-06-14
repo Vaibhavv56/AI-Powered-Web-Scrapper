@@ -1,6 +1,6 @@
-# 🦙 LLaMA Web Intelligence
+# AI-Powered Web Scrapper
 
-An AI-powered web scraping and parsing interface built with **Python**, **Streamlit**, and **LLaMA**. This tool allows you to extract, analyze, and interpret web page content using natural language prompts — no HTML/CSS knowledge required!
+An AI-powered web scraping and parsing interface built with **Python**, **Streamlit**,**BrightData** and **LLaMA**. This tool allows you to extract, analyze, and interpret web page content using natural language prompts — no HTML/CSS knowledge required!
 
 ---
 
